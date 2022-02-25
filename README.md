@@ -1,4 +1,10 @@
-# LIMA
+# LIMA (Linguagem de Marcação)
+
+## GitHub
+* GitHub é uma plataforma, já Git é um protocolo.
+* Linha do tempo (não tem função de backup).
+* Trabalho em equipe.
+* Versionar código e fazer branches (ramificações do código).
 
 ## TAGs semânticas
 * HEADER (Cabeçalho)
@@ -31,7 +37,6 @@
 * Dependem da direção que estão, column ou row
     * justify-content (eixo principal)
     * align-items (eixo secundário)
-
 
 ## TAG a
 * Atributos
