@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+header{
+    background-color: #FF6347;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+nav{
+    display: flex;
+    gap: 5px;
+}
+nav a{
+    text-decoration: none;
+}
+
+main{
+    background-color: #98FB98;
+    flex-grow: 1;
+}
+
+footer{
+    background-color: #8A2BE2;
+    height: 50px;
+}

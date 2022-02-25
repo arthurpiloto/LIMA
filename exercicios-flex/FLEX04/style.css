@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+}
+
+nav{
+    background-color: #D8BFD8;
+    flex-grow: 1;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 10;
+}
+
+header{
+    height: 50px;
+    background-color: #FF6347;
+}
+
+main{
+    display: flex;
+    flex-grow: 1;
+}
+article{
+    flex-grow: 1;
+    background-color: #98FB98;
+}
+aside{
+    flex-grow: 1;
+    background-color: #F5DEB3;
+}
+
+footer{
+    height: 50px;
+    background-color: #8A2BE2;
+}
