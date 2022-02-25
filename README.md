@@ -52,4 +52,3 @@
 ## Propriedades CSS
 * flex-grow = representa a "força" que a tag selecionada vai ter no html, ou seja, qual o tamanho total que a tag vai ter.
 * gap = espaço entre as caixas
-* text-decoration = seleciona a "decoração" do seu texto, mais usado nos links "<a>"
