@@ -46,9 +46,15 @@
 ## Unidades de Medida
 * px = pontos na tela
 * % = segue o tamanho do pai
-* vh/vw = segue o tamanho da janela
+* vh/vw/rem/em = segue o tamanho da janela
 * Geralmente damos tamanhos fixos para o header e o footer
 
 ## Propriedades CSS
-* flex-grow = representa a "força" que a tag selecionada vai ter no html, ou seja, qual o tamanho total que a tag vai ter.
+* flex-grow = representa a "força" que a tag selecionada vai ter no html, ou seja, qual o tamanho total que a tag vai ter
 * gap = espaço entre as caixas
+
+## Símbolos (HTML)
+* Para usar um símbolo basta colocar o sinal "&" o conteúdo desejado e o ";" no fim
+    *&copy;*
+    *&trade;*
+    *&reg;*
