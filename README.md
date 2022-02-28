@@ -54,7 +54,7 @@
 * gap = espaço entre as caixas
 
 ## Símbolos (HTML)
-* Para usar um símbolo basta colocar o sinal "&" o conteúdo desejado e o ";" no fim
+    * Para usar um símbolo basta colocar o sinal "&" o conteúdo desejado e o ";" no fim
     ``` &copy; ```
     ``` &trade; ```
     ``` &reg; ```
