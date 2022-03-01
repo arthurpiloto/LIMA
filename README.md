@@ -1,5 +1,7 @@
 # LIMA (Linguagem de Marcação)
 
+* control + shift + p = use para envelopar codigo (seleciona o conteúdo que pode ser colocado dentro de uma tag)
+
 ## GitHub
 * GitHub é uma plataforma, já Git é um protocolo.
 * Linha do tempo (não tem função de backup).
