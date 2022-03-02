@@ -57,3 +57,12 @@
 
 ## Símbolos (HTML)
 * Para usar um símbolo basta colocar o sinal "&" o conteúdo desejado e o ";" no fim. Ex: ``` &copy; ```, ``` &trade; ```, ``` &reg; ```...
+
+## Imagens
+* https://unsplash.com/
+* https://www.pexels.com/
+
+    ### Formatos
+    * JPEG/JPG (formato com alta compactação)
+    * PNG (formato que permite transparência)
+    * 1500 é o tamanho máximo de imagem adequado para um site
