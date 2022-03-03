@@ -3,6 +3,7 @@
 * control + shift + p = use para envelopar codigo (seleciona o conteúdo que pode ser colocado dentro de uma tag)
 
 ## GitHub
+https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAiAyPyQBhB6EiwAFUuakmcd_kgTi9wg9wR42saG6dWKvps8zwFrFMFlab732szisW0VNd4QXhoCDs0QAvD_BwE
 * GitHub é uma plataforma, já Git é um protocolo.
 * Linha do tempo (não tem função de backup).
 * Trabalho em equipe.
@@ -18,7 +19,7 @@
 * SPAN (usado para escrever textos simples e pequenos)
 
 ## Seletores
-* https://flukeout.github.io/
+https://flukeout.github.io/
 *   "*"   --> Universal
 * header  --> Nome da tag
 * .itens  --> Nome da classe
@@ -33,7 +34,7 @@
 * :nth-last-child(A) --> seleciona o filho de trás para frente de acordo com o elemento pai
 
 ## Display flex (flex-box)
-* https://flexboxfroggy.com/
+https://flexboxfroggy.com/
 * Column (coluna)
 * Row (linha)
 * Dependem da direção que estão, column ou row
@@ -59,9 +60,8 @@
 * Para usar um símbolo basta colocar o sinal "&" o conteúdo desejado e o ";" no fim. Ex: ``` &copy; ```, ``` &trade; ```, ``` &reg; ```...
 
 ## Imagens
-* https://unsplash.com/
-* https://www.pexels.com/
-
+https://unsplash.com/
+https://www.pexels.com/
     ### Formatos
     * JPEG/JPG (formato com alta compactação)
     * PNG (formato que permite transparência)
