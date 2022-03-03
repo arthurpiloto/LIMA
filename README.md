@@ -62,8 +62,8 @@ https://flexboxfroggy.com/
 Ex: ``` &copy; ```, ``` &trade; ```, ``` &reg; ```...
 
 ## Imagens
-https://unsplash.com/
-https://www.pexels.com/
+- https://unsplash.com/
+- https://www.pexels.com/
 
 ### Formatos
 * JPEG/JPG (formato com alta compactação)
