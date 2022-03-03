@@ -62,7 +62,8 @@ https://flexboxfroggy.com/
 ## Imagens
 https://unsplash.com/
 https://www.pexels.com/
-    ### Formatos
-    * JPEG/JPG (formato com alta compactação)
-    * PNG (formato que permite transparência)
-    * 1500 é o tamanho máximo de imagem adequado para um site
+
+### Formatos
+* JPEG/JPG (formato com alta compactação)
+* PNG (formato que permite transparência)
+* 1500 é o tamanho máximo de imagem adequado para um site
