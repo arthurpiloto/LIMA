@@ -3,9 +3,11 @@
 * control + shift + p = use para envelopar codigo (seleciona o conteúdo que pode ser colocado dentro de uma tag)
 
 ## GitHub
+
 <a target="_blank">
     https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAiAyPyQBhB6EiwAFUuakmcd_kgTi9wg9wR42saG6dWKvps8zwFrFMFlab732szisW0VNd4QXhoCDs0QAvD_BwE
 <a>
+
 * GitHub é uma plataforma, já Git é um protocolo.
 * Linha do tempo (não tem função de backup).
 * Trabalho em equipe.
