@@ -6,6 +6,7 @@
 <a target="_blank" href="https://www.alura.com.br/artigos/escrever-bom-readme?gclid=CjwKCAiAyPyQBhB6EiwAFUuakmcd_kgTi9wg9wR42saG6dWKvps8zwFrFMFlab732szisW0VNd4QXhoCDs0QAvD_BwE">
     Aprenda a fazer um bom README
 </a>
+
 * GitHub é uma plataforma, já Git é um protocolo.
 * Linha do tempo (não tem função de backup).
 * Trabalho em equipe.
