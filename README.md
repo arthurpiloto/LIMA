@@ -72,3 +72,10 @@ Ex: ``` &copy; ```, ``` &trade; ```, ``` &reg; ```
 * JPEG/JPG (formato com alta compactação)
 * PNG (formato que permite transparência)
 * 1500 é o tamanho máximo de imagem adequado para um site
+
+## Figma
+Software usado para desing de sites e aplicativos mobile.
+
+* https://dribbble.com/
+* https://www.behance.net/
+* https://www.uplabs.com/
