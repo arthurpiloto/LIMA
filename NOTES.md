@@ -79,3 +79,4 @@ Software usado para desing de sites e aplicativos mobile.
 * https://dribbble.com/
 * https://www.behance.net/
 * https://www.uplabs.com/
+* https://wirsindbaerenstark.de/my-top-10-free-character-illustration-resources/
